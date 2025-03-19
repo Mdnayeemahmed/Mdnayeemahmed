@@ -104,10 +104,3 @@
   <img src="https://img.shields.io/badge/Beecrowd-445f9d?style=for-the-badge&logo=beecrowd&logoColor=white"/>
 </a>
 
----
-
-Feel free to reach out if you have any questions or collaboration opportunities! 😄
-
----
-
-This version is more structured, visually appealing, and easier to read. Let me know if you'd like further adjustments!
