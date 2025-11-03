@@ -20,7 +20,7 @@
 - 📫 How to reach me:
   - <a href="https://linkedin.com/in/md-nayeem-ahmed-477225224" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   - <a href="mailto:nayeemahmedniloy1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  - <a href="https://drive.google.com/file/d/1Fi7uMTdmqpA8AF_jdgGE0l_GYK_5jyv6/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
+  - <a href="https://drive.google.com/file/d/1czsT0MitPG6UEBXTObMfp89K8IESWHaF/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
 ---
 
