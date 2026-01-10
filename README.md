@@ -58,44 +58,83 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdnayeemahmed&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdnayeemahmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🚀 Live Projects
 
-#### **Electronic Fiscal Device Management System (EFDMS) and Sales Data Controller (SDC)**
-- **Description**: Successfully developed and delivered the 3rd iteration of the EFDMS and SDC for the National Board of Revenue (NBR) Bangladesh. Technologies used include **MVC**, **Provider**, **SQL Database**, and more.
-- **Impact**: Over 22,000 outlets are now using the solution, which includes a built-in payment feature integrated with City Bank.
+#### **Muslim Times Pro**
+
+* **Description**: A comprehensive Islamic lifestyle application featuring prayer times, Quran, duas, reminders, and daily Islamic utilities with a clean, modern UX.
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.devxhub.muslimtimespro](https://play.google.com/store/apps/details?id=com.devxhub.muslimtimespro)
+* **App Store**: [https://apps.apple.com/sg/app/muslim-times-pro-prayer-quran/id6740039144](https://apps.apple.com/sg/app/muslim-times-pro-prayer-quran/id6740039144)
+
+---
+
+#### **Notivio – Notes & Task Planner**
+
+* **Description**: A productivity app designed for seamless note-taking, task management, reminders, and planning with a minimal, user-friendly interface.
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.devxhub.notivio](https://play.google.com/store/apps/details?id=com.devxhub.notivio)
+* **App Store**: [https://apps.apple.com/us/app/notivio-notes-task-planner/id6748751923](https://apps.apple.com/us/app/notivio-notes-task-planner/id6748751923)
+
+---
+
+#### **SK Mobile School**
+
+* **Description**: A complete digital school management solution enabling communication between students, teachers, and parents with academic and administrative features.
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.devxhub.skmobileschool&hl=en](https://play.google.com/store/apps/details?id=com.devxhub.skmobileschool&hl=en)
+* **App Store**: [https://apps.apple.com/us/app/sk-mobile-school/id6475169754](https://apps.apple.com/us/app/sk-mobile-school/id6475169754)
+
+---
+
+#### **Electronic Fiscal Device Management System (EFDMS) & Sales Data Controller (SDC)**
+
+* **Description**: Successfully developed and delivered the **3rd iteration** of EFDMS and SDC for the **National Board of Revenue (NBR), Bangladesh** using **MVC architecture**, **Provider**, **SQL database**, and secure integrations.
+* **Impact**: Currently used by **22,000+ outlets nationwide**, including a built-in payment system integrated with **City Bank**.
+
+---
 
 #### **Charge.AI**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.mulytic_energy.chargeai&hl=en)
-- **App Store**: [Download](https://apps.apple.com/us/app/charge-ai/id6478091732)
+
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.mulytic_energy.chargeai&hl=en](https://play.google.com/store/apps/details?id=com.mulytic_energy.chargeai&hl=en)
+* **App Store**: [https://apps.apple.com/us/app/charge-ai/id6478091732](https://apps.apple.com/us/app/charge-ai/id6478091732)
+
+---
 
 #### **KrishiBazar**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.krishbazar.app.bd&hl=en)
 
-#### **Skilled Zone Freelancer**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_freelancer)
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.krishbazar.app.bd&hl=en](https://play.google.com/store/apps/details?id=com.krishbazar.app.bd&hl=en)
 
-#### **Skilled Zone Client**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_client)
+---
+
+#### **Skilled Zone – Freelancer App**
+
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_freelancer](https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_freelancer)
+
+---
+
+#### **Skilled Zone – Client App**
+
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_client](https://play.google.com/store/apps/details?id=com.skilledzone.skilledzone_client)
+
+---
 
 #### **Mr Manik Food**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.mrmanik.user)
 
-#### **Sonyplex for Android TV**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.sonyplex.live&pcampaignid=web_share)
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.mrmanik.user](https://play.google.com/store/apps/details?id=com.mrmanik.user)
+
+---
+
+#### **Sonyplex (Android TV)**
+
+* **Description**: Android TV streaming application optimized for large-screen experiences.
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.sonyplex.live&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.sonyplex.live&pcampaignid=web_share)
+
+---
 
 #### **Grow Gain**
-- **Google Play Store**: [Download](https://play.google.com/store/apps/details?id=com.growgrain.userapps)
-- **App Store**: Coming Soon
+
+* **Google Play Store**: [https://play.google.com/store/apps/details?id=com.growgrain.userapps](https://play.google.com/store/apps/details?id=com.growgrain.userapps)
+* **App Store**: *Coming Soon*
+
 
 ---
 
